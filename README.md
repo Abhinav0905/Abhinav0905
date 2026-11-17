@@ -39,6 +39,8 @@ These are technical discussions where I have shared a diagnosis, specification c
 | [Backblaze B2 #1217](https://github.com/Backblaze/B2_Command_Line_Tool/issues/1217#issuecomment-6899569653) | Located the filename-completion bug at the incorrect `.completion` attribute and proposed a focused regression test. | Awaiting maintainer direction. |
 | [Backblaze B2 #1209](https://github.com/Backblaze/B2_Command_Line_Tool/issues/1209#issuecomment-6899621508) | Traced an uncaught environment-variable `ValueError` and proposed validation, regression tests and a changelog entry. | Awaiting maintainer direction. |
 
+[Browse all public GitHub discussions](https://github.com/search?q=commenter%3AAbhinav0905&type=issues)
+
 ## How I contribute
 
 - Trace bugs to their source before changing generated or downstream code.
